@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'David Wang\'s Blog',
+  title: 'AgileFeline Tech',
   author: 'David Wang',
   email: 'indiedavid2019@gmail.com',
   link: 'https://blog.xmcd.top',
